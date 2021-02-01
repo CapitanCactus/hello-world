@@ -1,2 +1,5 @@
 # hello-world
-на разок
+
+Hi people
+
+I am nick from Russia
